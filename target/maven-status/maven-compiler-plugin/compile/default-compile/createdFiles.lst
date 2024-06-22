@@ -1,0 +1,4 @@
+com\top1\custom_kill_title\utility\MessageUtil.class
+com\top1\custom_kill_title\commands\KillReloadCommand.class
+com\top1\custom_kill_title\events\KillEvent.class
+com\top1\custom_kill_title\Main.class

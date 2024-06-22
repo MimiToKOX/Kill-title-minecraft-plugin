@@ -1,0 +1,8 @@
+# {player} = gracz który został zabity
+# {killer} = gracz który zabił gracza
+# Plugin kompatybilny z PlaceHolderAPI!
+
+kill_title: "&2☠"
+kill_subtitle: "&aZabiłeś gracza &2{player}"
+dead_title: "&4☠"
+dead_subtitle: "&cZostałeś zabity przez &4{killer}"

@@ -1,0 +1,12 @@
+name: Custom_kill
+version: '1.0-SNAPSHOT'
+main: com.top1.custom_kill_title.Main
+api-version: 1.13
+depend: [PlaceholderAPI]
+author: MimiCode
+description: Plugin na Custom Kill
+website: dsc.gg/mimicode
+
+commands:
+  customkill:
+    description: Reload plugin custom kill
